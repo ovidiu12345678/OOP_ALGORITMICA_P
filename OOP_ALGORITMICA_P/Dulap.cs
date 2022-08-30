@@ -21,7 +21,7 @@ namespace OOP_ALGORITMICA_P
 
         public void Tipareste()
         {
-            string tiparesteText = "Introduce-ti dimensiunile unui dulap ! ";
+            string tiparesteText = "Introduce-ti dimensiunile unui dulap !";
             Console.WriteLine(tiparesteText);
         }
 
